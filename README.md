@@ -7,17 +7,10 @@
   <a href="https://www.linkedin.com/in/jaironetodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 <br>
-
-  <a href="https://github.com/JairoNetoDev/">
-  <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev&show_icons=false" />
-  <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&card_width=200" />
-</a>
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jairo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jairo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jairo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jairo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="display: inline_block">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&&size_weight=0.5&count_weight=0.5&count=5%card_width=320" />
 </div>
 
+
+<img  />
