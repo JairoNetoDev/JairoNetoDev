@@ -1,31 +1,46 @@
-# Olá, me chamo Jairo!
+![](https://komarev.com/ghpvc/?username=JairoNetoDev&color=006bed)
 
-<p>Prazer, me chamo Jairo Williams Guedes Lopes Neto! Sou uma pessoa bastante dedicada e que gosta de seguir o que tem que ser feito. Adoro ajudar as pessoas, principalmente quando se fala em programação. Atualmente estou estudando para ser um futuro Dev Full Stack. Adoro desafios, então eu me encontrei na área quando eu descobrir que programar é sempre um novo desafio quando inicia-se um novo projeto.</p>
+## Sobre mim
 
-<div>
-  <a href ="mailto:jaironetodev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jaironetodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-<div>
-  <h3>Linguagens:</h3>
-  <img width ="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
-<div>
-  <h3>Frameworks / Tools:</h3>
-  <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-<br>
-<div>
-  <a href="https://github.com/JairoNetoDev/">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev&show_icons=true&" />
-  </a>
-  <a href="https://github.com/JairoNetoDev/">
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para ser um futuro Dev FullStack.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Tirandentes.
+- 🎓 Cursando Técnico de Nível Médio em Infomática no Instituto Federal de Sergipe..
+- 🌱 Aprendendo mais sobre Java | HTML | CSS | JavaScript.
+
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap)
+![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
