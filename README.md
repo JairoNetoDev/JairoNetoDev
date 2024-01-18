@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software para ser um futuro Dev FullStack.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Tirandentes.
-- 🎓 Cursando Técnico de Nível Médio em Infomática no Instituto Federal de Sergipe..
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Tirandentes, 3° Período.
+- 🎓 Cursando Técnico de Nível Médio em Infomática no Instituto Federal de Sergipe, 3° Período.
 - 🌱 Aprendendo mais sobre Java | HTML | CSS | JavaScript.
 
 ## Minhas Skills
