@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá, me chamo Jairo!
+<p>Tenho 18 anos, moro atualmente em Aracaju-SE.</p>
+<p>Sou uma pessoa bastante dedicada e que gosta de seguir o que tem que ser feito. Adoro ajudar as pessoas, principalmente quando se fala em programação. Atualmente estou estudando para ser um futuro Dev Full Stack. Adoro desafios, então eu me encontrei na área quando eu descobrir que programar é sempre um novo desafio quando inicia-se um novo projeto.</p>
+<br>
+<div>
+  <a href="https://github.com/JairoNetoDev/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
 
-<!--
-**JairoNetoDev/JairoNetoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jairo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jairo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jairo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jairo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
