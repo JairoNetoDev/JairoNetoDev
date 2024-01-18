@@ -35,12 +35,15 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/JairoNetoDev/">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-Jairo_Williams_Guedes_Lopes_Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaironetodev/)](https://www.linkedin.com/in/jaironetodev/)
+[![Gmail Badge](https://img.shields.io/badge/-jaironetodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaironetodev@gmail.com)](mailto:jaironetodev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/JairoNetoDev?label=follow&style=social)](https://github.com/JairoNetoDev/)
