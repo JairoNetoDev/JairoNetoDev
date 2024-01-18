@@ -9,9 +9,9 @@
 <br>
 <div>
   <a href="https://github.com/JairoNetoDev/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev&show_icons=true&" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev&show_icons=true&" />
   </a>
   <a href="https://github.com/JairoNetoDev/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
