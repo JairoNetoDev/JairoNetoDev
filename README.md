@@ -45,5 +45,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Jairo_Williams_Guedes_Lopes_Neto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaironetodev/)](https://www.linkedin.com/in/jaironetodev/)
-[![Gmail Badge](https://img.shields.io/badge/-jaironetodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaironetodev@gmail.com)](mailto:jaironetodev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jairo.neto.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jairo.neto.dev@gmail.com)](mailto:jairo.neto.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/JairoNetoDev?label=follow&style=social)](https://github.com/JairoNetoDev/)
