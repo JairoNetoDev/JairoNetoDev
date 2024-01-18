@@ -7,10 +7,16 @@
   <a href="https://www.linkedin.com/in/jaironetodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 <br>
-<div style="display: inline_block">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&&size_weight=0.5&count_weight=0.5&count=5%card_width=320" />
+<div>
+  <a href="https://github.com/JairoNetoDev/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev" />
+  </a>
+  <a href="https://github.com/JairoNetoDev/">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
+  </a>
 </div>
+  
+
 
 
 <img  />
