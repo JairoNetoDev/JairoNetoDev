@@ -7,12 +7,12 @@
   <a href="https://www.linkedin.com/in/jaironetodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 <br>
-<div width: 100rem>
+
   <a href="https://github.com/JairoNetoDev/">
   <img height=200 width=500 align=center src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev&show_icons=true" />
   <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
 </a>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jairo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
