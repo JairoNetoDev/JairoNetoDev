@@ -36,11 +36,11 @@
 <br/>
 
 <a href="https://github.com/JairoNetoDev/">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JairoNetoDev" />
 </a>
-<a href="https://github.com/JairoNetoDev/convoychat">
+<!--<a href="https://github.com/JairoNetoDev/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JairoNetoDev&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a>-->
 
 ## Onde me encontrar
 
