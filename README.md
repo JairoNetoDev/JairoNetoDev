@@ -11,13 +11,12 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap)
-![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=orange)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-333333?style=flat&logo=Spring&logoColor=green)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
@@ -30,7 +29,7 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-333333?style=flat&logo=intellij-idea)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 <br/>
