@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 👋 Me chamo Jairo, tenho 18 anos e atualmente estou explorando novas tecnologias e desenvolvendo soluções de software para ser um futuro Dev FullStack.
+- 👋 Me chamo Jairo, tenho 19 anos e atualmente estou explorando novas tecnologias e desenvolvendo soluções de software para ser um futuro Dev FullStack.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Tirandentes, 4° Período.
 - 🌱 Aprendendo mais sobre Java | SpringBoot | ReactJS.
 
