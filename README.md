@@ -25,12 +25,14 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/Intellij%20Idea-333333?style=flat&logo=intellij-idea)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=ClickUp&logoColor=7B68EE)
 
 <br/>
 
