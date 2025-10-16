@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-- 👋 Me chamo Jairo, tenho 19 anos e atualmente estou explorando novas tecnologias e desenvolvendo soluções de software para ser um futuro Dev FullStack.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade Tirandentes, 4° Período.
-- 🌱 Aprendendo mais sobre Java | SpringBoot | ReactJS.
+- 👋 Me chamo Jairo, tenho 20 anos e atualmente estou trabalhando na Ágape Sistemas e Tecnologia e desenvolvendo soluções de software como sendo full-stack.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 🌱 Aprendendo mais sobre Laravel | ReactJs.
 
 ## Minhas Skills
 
